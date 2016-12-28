@@ -1,5 +1,5 @@
 # reactjs-testing
-Useful for Testing React Components
+Useful Links for Testing React Components
 
 1. http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/
 2. https://semaphoreci.com/community/tutorials/testing-react-components-with-enzyme-and-mocha/
